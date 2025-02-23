@@ -1,4 +1,4 @@
-# Hey there! I'm Misbah, but widely known as THE GOAT 👋  
+# Hey there! I'm Misbah👋  
 
 💻 **2nd Year Computer Engineering Co-op Student @ UAlberta** (Software Option)  
 🚀 Passionate about **software development, hardware integration, and building innovative projects**  
