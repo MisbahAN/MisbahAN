@@ -1,11 +1,11 @@
 # Hey there! I'm Misbah👋  
 
-💻 **2nd Year Computer Engineering Co-op Student @ UAlberta** (Software Option)  
+💻 **3rd Year Computer Engineering Co-op Student @ UAlberta** (Software Option)  
 🚀 Passionate about **software development, hardware integration, and building innovative projects**  
 🎯 Currently exploring **Full-Stack Development & Embedded Systems**  
 
 ## 🔧 Technologies & Tools  
-- **Languages:** Python, C, JavaScript, HTML/CSS, Bash, VHDL  
+- **Languages:** Python, C, C++, JavaScript, HTML/CSS, Bash, VHDL  
 - **Developer Tools:** Git, GitHub, VS Code, PyCharm, Vivado, PowerShell  
 - **Hardware:** Arduino, Raspberry Pi, Xilinx Zybo Z7 FPGA, Digilent Analog Discovery 2  
 - **Libraries & Frameworks:** NumPy, Matplotlib, Tkinter, Pygame  
@@ -25,11 +25,20 @@
 
 ## 🌱 Currently Learning  
 - Full-Stack Web Development (React, Node.js, PostgreSQL)  
-- C++  
 
 ## 🔗 Connect with Me  
-🔗 **LinkedIn:** [linkedin.com/in/misbahnauman](#)  
-🔗 **GitHub:** [github.com/MisbahNauman](#)  
+
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misbahan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misbahahmed2005@gmail.com)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/misbahahmed2005)
+</div>
+
+## 👀 Profile Views
+
+<div align="center">
+![Profile views](https://komarev.com/ghpvc/?username=MisbahAN&style=flat&color=blue)
+</div>
 
 ---
 _"If I could, I would, But I can't, so I shan't."_  
