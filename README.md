@@ -29,15 +29,21 @@
 ## 🔗 Connect with Me  
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misbahan/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:misbahahmed2005@gmail.com)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/misbahahmed2005)
+  <a href="https://www.linkedin.com/in/misbahan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:misbahahmed2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://devpost.com/misbahahmed2005">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost">
+  </a>
 </div>
 
 ## 👀 Profile Views
 
 <div align="center">
-![Profile views](https://komarev.com/ghpvc/?username=MisbahAN&style=flat&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=MisbahAN&style=flat&color=blue" alt="Profile views">
 </div>
 
 ---
