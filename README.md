@@ -44,7 +44,7 @@
   VHDL-based **clock-multiplexed system** for managing lights on a 7-segment display using Zybo Z7
 
 - 📅 [Tuesday.com Clone](https://github.com/MisbahAN/tuesday.com)  
-  Like Monday.com, but on a Tuesday [Tuesday.com](https://tuesday.com)
+  Like Monday.com, but on a Tuesday [Tuesday.com]
 
 ---
 
