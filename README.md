@@ -40,9 +40,6 @@
 - 🕹️ [ShadowStrike](https://github.com/MisbahAN/ShadowStrike)  
   A **2D platformer built with Pygame**, featuring AI enemies, particles, and performance optimization
 
-- 🚦 [Traffic Control System (FPGA)] 
-  VHDL-based **clock-multiplexed system** for managing lights on a 7-segment display using Zybo Z7
-
 - 📅 [Tuesday.com Clone](https://github.com/MisbahAN/tuesday.com)  
   Like Monday.com, but on a Tuesday [Tuesday.com]
 
