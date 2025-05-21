@@ -33,14 +33,14 @@
 - 🏡 [Property Recommendation System](https://github.com/MisbahAN/Property-Recommendation-System)  
   ML + GPT + rules-based filtering to recommend real estate comps.
 
-- 🎮 [PlayMG]([https://github.com/HameedFawwaz/PlayMG])  
+- 🎮 [PlayMG](https://github.com/HameedFawwaz/PlayMG)  
   Developed an **EMG-based muscle control interface** with 97% signal accuracy  
   Focused on **accessibility and signal processing** for hands-free control
 
 - 🕹️ [ShadowStrike](https://github.com/MisbahAN/ShadowStrike)  
   A **2D platformer built with Pygame**, featuring AI enemies, particles, and performance optimization
 
-- 🚦 [Traffic Control System (FPGA)](https://github.com/MisbahAN/Traffic-Control-FPGA)  
+- 🚦 [Traffic Control System (FPGA)] 
   VHDL-based **clock-multiplexed system** for managing lights on a 7-segment display using Zybo Z7
 
 - 📅 [Tuesday.com Clone](https://github.com/MisbahAN/tuesday.com)  
@@ -60,7 +60,7 @@
 
 ### 💡 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,pygame,tkinter,vhdl,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,react,nodejs" />
 </p>
 
 ### 🔧 Tools
