@@ -19,7 +19,6 @@
 
 ---
 
-<!-- About Me -->
 ## ☕ About Me
 
 - 🎓 **3rd Year Computer Engineering Co-op Student @ University of Alberta (Software Option)**
@@ -29,27 +28,26 @@
 
 ---
 
-<!-- What I'm Working On -->
-## 🔧 What I'm Working On
+## 🔧 Projects I've Worked On
 
 - 🏡 [Property Recommendation System](https://github.com/MisbahAN/Property-Recommendation-System)  
   ML + GPT + rules-based filtering to recommend real estate comps.
 
-- **PlayMG** 🎮 (Python + Arduino)  
-  - Developed an **EMG-based muscle control interface** with 97% signal accuracy  
-  - Focused on **accessibility and signal processing** for hands-free control  
+- 🎮 [PlayMG](https://github.com/MisbahAN/PlayMG)  
+  Developed an **EMG-based muscle control interface** with 97% signal accuracy  
+  Focused on **accessibility and signal processing** for hands-free control
 
-- **ShadowStrike** 🕹️ (Pygame)  
-  - Created a **2D platformer with AI-driven enemies, particle effects, and optimized rendering**  
-  - Explored **performance optimization & game mechanics**  
+- 🕹️ [ShadowStrike](https://github.com/MisbahAN/ShadowStrike)  
+  A **2D platformer built with Pygame**, featuring AI enemies, particles, and performance optimization
 
-- **Traffic Control System on FPGA** 🚦 (VHDL + Xilinx Zybo Z7)  
-  - Designed and implemented a **clock-based multiplexed display system**  
-  - Optimized functionality using **test benches and static timing analysis**  
+- 🚦 [Traffic Control System (FPGA)](https://github.com/MisbahAN/Traffic-Control-FPGA)  
+  VHDL-based **clock-multiplexed system** for managing lights on a 7-segment display using Zybo Z7
+
+- 📅 [Tuesday.com Clone](https://github.com/MisbahAN/tuesday.com)  
+  Like Monday.com, but on a Tuesday [Tuesday.com](https://tuesday.com)
 
 ---
 
-<!-- Learning -->
 ## 🌱 Currently Learning
 
 - [The Complete 2024 Web Development Bootcamp (Udemy)](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
@@ -58,19 +56,11 @@
 
 ---
 
-<!-- Languages -->
-## 💻 My Languages
-
-![Languages](./9a917350-b0c1-4974-b3a5-8fd6b5cd3a0f.png)
-
----
-
-<!-- Technologies -->
 ## 🛠️ Technologies & Tools
 
 ### 💡 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,pygame,tkinter,vhdl" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,pygame,tkinter,vhdl,postgres" />
 </p>
 
 ### 🔧 Tools
@@ -85,7 +75,6 @@
 
 ---
 
-<!-- Contact -->
 ## 📫 Contact Me
 
 <p align="center">
@@ -108,4 +97,4 @@
 
 ---
 
-<p align="center"><i>\"If I could, I would, but I can't, so I shan't.\"</i></p>
+<p align="center"><i>"If I could, I would, but I can't, so I shan't."</i></p>
