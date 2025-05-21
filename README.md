@@ -13,7 +13,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=3rd+Year+Computer+Engineering+Student;SWE+Resident+@+Headstarter;AI+Student+Ambassador+@+Intel;Hardcore+Energy+Drink+Drinker;Full+Stack+%2B+ML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=3rd+Year+Computer+Engineering+Student;SWE+Resident+@+Headstarter;AI+Student+Ambassador+@+Intel;Full+Stack+%2B+ML+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,10 +23,9 @@
 ## ☕ About Me
 
 - 🎓 **3rd Year Computer Engineering Co-op Student @ University of Alberta (Software Option)**
-- 💥 Hardcore energy drink drinker and creative builder
-- 🧠 Currently a SWE Resident @ [Headstarter](https://www.linkedin.com/company/headstarterhq)  
+- 🧠 Currently a SWE Resident @ [Headstarter](https://headstarter.co/)  
 - 🤖 AI Student Ambassador @ [Intel](https://www.intel.com/)
-- 🛠️ Passionate about shipping full-stack apps, learning machine learning, and building tools that spark curiosity
+- 🛠️ Passionate about full-stack apps, machine learning, and building tools that spark curiosity
 
 ---
 
@@ -36,19 +35,26 @@
 - 🏡 [Property Recommendation System](https://github.com/MisbahAN/Property-Recommendation-System)  
   ML + GPT + rules-based filtering to recommend real estate comps.
 
-- 🖥️ [Portfolio Website](https://www.misbahan.com)  
-  Built with React & Tailwind, hosts all my projects, experience, and future experiments.
+- **PlayMG** 🎮 (Python + Arduino)  
+  - Developed an **EMG-based muscle control interface** with 97% signal accuracy  
+  - Focused on **accessibility and signal processing** for hands-free control  
 
-- ✍️ Building a journaling + mental health app (WIP)
+- **ShadowStrike** 🕹️ (Pygame)  
+  - Created a **2D platformer with AI-driven enemies, particle effects, and optimized rendering**  
+  - Explored **performance optimization & game mechanics**  
+
+- **Traffic Control System on FPGA** 🚦 (VHDL + Xilinx Zybo Z7)  
+  - Designed and implemented a **clock-based multiplexed display system**  
+  - Optimized functionality using **test benches and static timing analysis**  
 
 ---
 
 <!-- Learning -->
 ## 🌱 Currently Learning
 
-- [Machine Learning A-Z™ on Udemy](https://www.udemy.com/course/machinelearning/)
-- Java fundamentals + OOP + DSA
-- Backend system design & clean architecture
+- [The Complete 2024 Web Development Bootcamp (Udemy)](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+- TypeScript
+- Java
 
 ---
 
@@ -62,33 +68,20 @@
 <!-- Technologies -->
 ## 🛠️ Technologies & Tools
 
-### 💡 Languages
-`JavaScript` `TypeScript` `Python` `C/C++` `Java` `HTML/CSS` `VHDL` `Bash`
-
-### ⚙️ Frameworks & Libraries
-`React` `Next.js` `Node.js` `Express` `Flask` `Tkinter` `Pygame` `TailwindCSS` `PostgreSQL` `MongoDB`
+### 💡 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,pygame,tkinter,vhdl" />
+</p>
 
 ### 🔧 Tools
-`Git` `GitHub` `VS Code` `Vercel` `Railway` `Postman` `Vivado` `PyCharm` `Figma` `Docker` `Jest`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,pycharm,vivado" />
+</p>
 
 ### ⚡ Hardware & Systems
-`Arduino` `Raspberry Pi` `Xilinx Zybo Z7 FPGA` `Digilent Analog Discovery 2`
-
----
-
-<!-- Projects -->
-## 🚀 Projects
-
-- 🎮 **PlayMG**  
-  EMG-based muscle control game interface — hands-free gaming with Arduino + Python (97% signal accuracy)
-
-- 🕹 **ShadowStrike**  
-  2D Pygame platformer with AI enemies, particle systems, and optimization-focused mechanics
-
-- 🚦 **FPGA Traffic Control System**  
-  VHDL project with clock-based display control + static timing analysis
-
-- 🧩 **More Projects →** [GitHub Repos](https://github.com/MisbahAN?tab=repositories)
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
 
 ---
 
