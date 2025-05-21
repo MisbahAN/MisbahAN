@@ -33,7 +33,7 @@
 - 🏡 [Property Recommendation System](https://github.com/MisbahAN/Property-Recommendation-System)  
   ML + GPT + rules-based filtering to recommend real estate comps.
 
-- 🎮 [PlayMG](https://github.com/MisbahAN/PlayMG)  
+- 🎮 [PlayMG]([https://github.com/HameedFawwaz/PlayMG])  
   Developed an **EMG-based muscle control interface** with 97% signal accuracy  
   Focused on **accessibility and signal processing** for hands-free control
 
