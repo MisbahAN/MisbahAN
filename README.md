@@ -40,7 +40,7 @@
 - 🕹️ [ShadowStrike](https://github.com/MisbahAN/ShadowStrike)  
   A **2D platformer built with Pygame**, featuring AI enemies, particles, and performance optimization
 
-- 📅 [Tuesday.com Clone](https://github.com/MisbahAN/tuesday.com)  
+- 📅 [Tuesday.com](https://github.com/MisbahAN/tuesday.com)  
   Like Monday.com, but on a Tuesday [Tuesday.com]
 
 ---
@@ -69,6 +69,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
+
+### 🧠 Other Tools: 
+  Vivado, Xilinx Zybo Z7 FPGA, Digilent Analog Discovery 2
 
 ---
 
