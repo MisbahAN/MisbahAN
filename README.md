@@ -30,7 +30,7 @@
 
 ## 🔧 Projects I've Worked On
 
-- 🏡 [Property Recommendation System](https://github.com/MisbahAN/Property-Recommendation-System)  
+- 🏡 [PropComp AI](https://github.com/MisbahAN/PropComp-AI)  
   ML + GPT + rules-based filtering to recommend real estate comps.
 
 - 🎮 [PlayMG](https://github.com/HameedFawwaz/PlayMG)  
