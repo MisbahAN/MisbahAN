@@ -75,6 +75,19 @@
 
 ---
 
+## Github Stats
+
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=MisbahAN&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000" height="200px"/>
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisbahAN&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000" height="200px"/>
+    </td>
+  </tr>
+</table>
+
 ## 📫 Contact Me
 
 <p align="center">
