@@ -33,8 +33,8 @@
 - 🏡 [PropComp AI](https://github.com/MisbahAN/PropComp-AI)  
   AI-powered property recommendation system for real estate appraisals.
 
-- 🧠 CustomerCare Voice-AI [Frontend](https://github.com/MisbahAN/CustomerCare-VoiceAI-Frontend) [Backend](https://github.com/MisbahAN/CustomerCare-VoiceAI-Backend)
-  An intelligent system that powers automated customer service interactions through AI-driven conversations
+- 🧠 **CustomerCare Voice-AI** · [Frontend](https://github.com/MisbahAN/CustomerCare-VoiceAI-Frontend) | [Backend](https://github.com/MisbahAN/CustomerCare-VoiceAI-Backend)  
+  AI-powered system enabling automated customer service through natural, voice-driven conversations
 
 - 🏥 [MediLink AI](https://github.com/MisbahAN/MediLink-AI)  
   AI-driven medical form automation that extracts data from referral packages and fills Prior Authorization PDFs in under 2 minutes
