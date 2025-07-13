@@ -12,10 +12,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=3rd+Year+Computer+Engineering+Student;Intern+%40+VSF+Holdings;SWE+Resident+%40+Headstarter;AI+Student+Ambassador+%40+Intel
-alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=3rd+Year+Computer+Engineering+Student;Intern+%40+VSF+Holdings;SWE+Resident+%40+Headstarter;AI+Student+Ambassador+%40+Intel" alt="Typing SVG" />
 </p>
 
 ---
