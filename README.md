@@ -85,6 +85,8 @@
   </tr>
 </table>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=misbahan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📫 Contact Me
 
 <p align="center">
