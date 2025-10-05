@@ -12,7 +12,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=3rd+Year+Computer+Engineering+Student;Prev+Intern+%40+VSF+Holdings;Prev+SWE+Resident+%40+Headstarter;AI+Student+Ambassador+%40+Intel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=3rd+Year+Computer+Engineering;ML+Research+Assistant+%40+GeoTrans+Lab;Prev+%40+Intel,+VSF+Holdings,+Headstarter" alt="Typing SVG" />
 </p>
 
 <!-- Cute kitty image -->
