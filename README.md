@@ -25,7 +25,7 @@
 ## ☕ About Me
 
 - 🎓 **3rd Year Computer Engineering Co-op Student @ University of Alberta (Software Option)**
-- 🤖 AI Student Ambassador @ [Intel](https://www.intel.com/)
+- 🤖 ML Research Assistant @ [GeoTrans Lab](https://sites.google.com/ualberta.ca/drtaejkwon/people/People/misbah-ahmed-nauman)
 - 🛠️ Passionate about full-stack apps, machine learning, and building tools that have an impact
 
 ---
