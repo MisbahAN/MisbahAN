@@ -132,18 +132,12 @@
 
 ## Github Stats
 
-<table style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=MisbahAN&show_icons=true&theme=material-palenight&hide_border=true&bg_color=00000000" height="200px"/>
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisbahAN&layout=compact&theme=material-palenight&hide_border=true&bg_color=00000000" height="200px"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisbahAN&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,HTML&langs_count=8&card_width=420&card_height=300&custom_title=Languages%20(Top%20Repos)" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=MisbahAN&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&rank_icon=github" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=misbahan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 📫 Contact Me
 
