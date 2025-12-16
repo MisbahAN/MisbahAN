@@ -1,165 +1,107 @@
-<!-- Hi there header -->
+<!-- header -->
 <h2 align="center">
-  Hi there! I'm <a href="https://www.misbahan.com">Misbah</a> 👋
+  hey. i'm <a href="https://www.misbahan.com">misbah</a>
 </h2>
 
-<!-- Profile view badge -->
+<!-- roles -->
+<p align="center">
+  swe intern @ altaml · prev @ geotrans lab, vsf holdings · vp external @ compe club · swe @ ualberta
+</p>
+
+<!-- profile views -->
 <p align="center">
   <a href="https://github.com/MisbahAN">
-    <img src="https://komarev.com/ghpvc/?username=MisbahAN&color=blue" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=MisbahAN&color=blue" alt="profile views" />
   </a>
 </p>
 
-<!-- Typing animation -->
+<!-- image -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=3rd+Year+Computer+Engineering;ML+Research+Assistant+%40+GeoTrans+Lab;Prev+%40+Intel%2CVSF+Holdings%2CHeadstarter" alt="Typing SVG" />
-</p>
-
-<!-- Cute kitty image -->
-<p align="center">
-  <img src="public/sleepy-kitty.png" alt="Sleepy Kitty" width="300" />
+  <img src="public/sleepy-kitty.png" alt="sleepy kitty" width="260" />
 </p>
 
 ---
 
-## ☕ About Me
+## about
 
-- 🎓 **3rd Year Computer Engineering Co-op Student @ University of Alberta (Software Option)**
-- 🤖 ML Research Assistant @ [GeoTrans Lab](https://sites.google.com/ualberta.ca/drtaejkwon/people/People/misbah-ahmed-nauman)
-- 🛠️ Passionate about full-stack apps, machine learning, and building tools that have an impact
+third-year computer engineering student at the university of alberta.  
+currently a software engineer intern at altaml working on backend infrastructure using c# and the .net stack.
 
----
-
-## 🔧 Featured Projects
-
-- 🧠 [Brain Tumor Classification](https://github.com/MisbahAN/Brain-Tumor-Classification)  
-  Deep-learning pipeline using **Xception** and custom CNN models to classify brain MRI scans, with a Streamlit app for real-time predictions and Gemini-powered insights.
-
-- 🏥 [MediLink AI](https://github.com/MisbahAN/MediLink-AI)  
-  AI-driven medical form automation that extracts data from referral packages and fills Prior Authorization PDFs in under **2 minutes**.
-
-- 🏡 [PropComp AI](https://github.com/MisbahAN/PropComp-AI)  
-  AI-powered property recommendation system for **real estate appraisals**.
-
-- 🧠 **CustomerCare Voice-AI** · [Frontend](https://github.com/MisbahAN/CustomerCare-VoiceAI-Frontend) | [Backend](https://github.com/MisbahAN/CustomerCare-VoiceAI-Backend)  
-  AI-powered system enabling **automated customer service** through natural, voice-driven conversations.
-
-- 🎥 [ChatVid AI](https://github.com/MisbahAN/ChatVid-AI)  
-  Multimodal video assistant powered by **Gemini** — ever wish your video could answer back? Now it can.
+previously worked as a software engineer research assistant at geotrans lab building ml-backed, cloud-deployed road surface monitoring systems, and as a software engineer intern at vsf holdings shipping full-stack analytics products.  
+i like backend-heavy work where i can reason about the full system end to end.
 
 ---
 
-## 🌱 Currently Learning
+## featured projects
 
-- [The Complete 2024 Web Development Bootcamp (Udemy)](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-- TypeScript
-- Java
+- **[six degrees of scientific discovery](https://github.com/MisbahAN/Six-Degrees-of-Scientific-Discovery)**  
+  concurrent go backend computing shortest knowledge paths across 50k+ scientific discoveries with websocket bfs streaming and cloud run deployments.
 
----
+- **[ergonomiq](https://github.com/MisbahAN/ergonomiq)**  
+  real-time computer vision system for ergonomic injury prevention built at nathacks 2025 using mediapipe, fastapi, and firebase with sub-150ms feedback latency.
 
-## My Skills Set
-<table><tr><tr valign="top" width="25%">
-
-### Front End
-
-<div align="center">
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-  <a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="Next.js" height="50" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-</div>
-<div align="center" style="margin-top: 10px;">
-  <sub><strong>Other Tools:</strong> React Testing Library • Vercel</sub>
-</div>
-
-### Back End
-
-<div align="center">  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" height="50" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-  <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>
-</div>
-<div align="center" style="margin-top: 10px;">
-  <sub><strong>Other Tools:</strong> REST APIs • Socet.io • WebSocket • ARM Assembly</sub>
-</div>
-
-
-### Databases
-
-<div align="center">  
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-  <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-</div>
-<div align="center" style="margin-top: 10px;">
-  <sub><strong>Other Tools:</strong> SQL</sub>
-</div>
-
-### AI/ML & Data
-
-<div align="center">  
-  <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>
-  <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>
-</div>
-<div align="center" style="margin-top: 10px;">
-  <sub><strong>Other Tools:</strong> Numpy • Pandas • Matplotlib • Scikit-learn • XGBoost • Seaborn • Pytest • Postman</sub>
-</div>
-
-### DevOps & Tools
-
-<div align="center">  
-  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-</div>
-<div align="center" style="margin-top: 10px;">
-  <sub><strong>Other Tools:</strong> GitHub • GitHub Actions (CI/CD) • Bash • Render • VS Code • PyCharm • Vivado</sub>
-</div>
+- **[event lottery system](https://github.com/CMPUT301f25impact/impact)**  
+  android application for lottery-based event sign-ups with redraws, waitlists, and real-time notifications backed by firebase.
 
 ---
+## tech i actually use
 
-## Github Stats
-
+### languages
 <p align="center">
-    <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisbahAN&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,HTML&langs_count=8&card_width=420&card_height=300&custom_title=Languages%20(Top%20Repos)" />
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=MisbahAN&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&rank_icon=github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48" />
+</p>
+
+### backend and systems
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="48" />
+</p>
+
+### frontend when needed
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" />
+</p>
+
+### databases and infra
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" />
 </p>
 
 
+---
 
-## 📫 Contact Me
+## github
 
 <p align="center">
-  <a href="mailto:misbahahmed2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/misbahan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/MisbahAN">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/MisbahAN/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.misbahan.com">
-    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <img
+    width="420"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisbahAN&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,HTML,TypeScript&langs_count=8"
+  />
+  <img
+    width="420"
+    src="https://github-readme-stats.vercel.app/api?username=MisbahAN&show_icons=true&theme=tokyonight&count_private=true&hide_title=true"
+  />
 </p>
 
 ---
 
 <p align="center"><i>"If I could, I would, but I can't, so I shan't."</i></p>
-<hr/>
