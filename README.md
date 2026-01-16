@@ -86,22 +86,6 @@ i like backend-heavy work where i can reason about the full system end to end.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" />
 </p>
 
-
----
-
-## github
-
-<p align="center">
-  <img
-    width="420"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisbahAN&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,HTML,TypeScript&langs_count=8"
-  />
-  <img
-    width="420"
-    src="https://github-readme-stats.vercel.app/api?username=MisbahAN&show_icons=true&theme=tokyonight&count_private=true&hide_title=true"
-  />
-</p>
-
 ---
 
 <p align="center"><i>"If I could, I would, but I can't, so I shan't."</i></p>
