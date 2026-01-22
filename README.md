@@ -24,27 +24,31 @@
 
 ## about
 
-third-year computer engineering student at the university of alberta.  
-currently a software engineer intern at altaml working on backend infrastructure using c# and the .net stack.
-
-previously worked as a software engineer research assistant at geotrans lab building ml-backed, cloud-deployed road surface monitoring systems, and as a software engineer intern at vsf holdings shipping full-stack analytics products.  
-i like backend-heavy work where i can reason about the full system end to end.
+- 3rd year computer/software engineer
+- into backend, infra, and overall system architecture
+- addicted to making projects (latest: [LeetBoard](https://leetboard.dev/))
+- attend a lot of hackathons (Hack The North, nwHacks, HackEd, natHacks..)
+- mentoring juniors (and seniors!)
+- cat hater turned lover
 
 ---
 
 ## featured projects
 
+- **[LeetBoard](https://github.com/MisbahAN/LeetBoard) | [leetboard.dev](https://leetboard.dev/)**  
+  A competitive programming leaderboard that helps students benchmark their LeetCode progress against classmates and rival universities.
+
+- **[Finnwise](https://github.com/MisbahAN/finnwise) | [finnwise.tech](https://finnwise.tech/dashboard)**  
+  Duolingo for Financial Wisdom. Built during nwHacks 2026.
+   
 - **[six degrees of scientific discovery](https://github.com/MisbahAN/Six-Degrees-of-Scientific-Discovery)**  
-  concurrent go backend computing shortest knowledge paths across 50k+ scientific discoveries with websocket bfs streaming and cloud run deployments.
+  Concurrent go backend computing shortest knowledge paths across 50k+ scientific discoveries with websocket bfs streaming and cloud run deployments.
 
 - **[ergonomiq](https://github.com/MisbahAN/ergonomiq)**  
-  real-time computer vision system for ergonomic injury prevention built at nathacks 2025 using mediapipe, fastapi, and firebase with sub-150ms feedback latency.
-
-- **[event lottery system](https://github.com/CMPUT301f25impact/impact)**  
-  android application for lottery-based event sign-ups with redraws, waitlists, and real-time notifications backed by firebase.
+  AI-powered ergonomic wellness system combining computer vision and EMG sensors for real-time posture, eye strain, and wrist monitoring. Built during nathacks 2025.
 
 ---
-## tech i actually use
+## tech i use
 
 ### languages
 <p align="center">
