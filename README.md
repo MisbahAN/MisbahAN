@@ -26,7 +26,7 @@
 
 - 3rd year computer/software engineer
 - into backend, infra, and overall system architecture
-- addicted to making projects (latest: [LeetBoard](https://leetboard.dev/))
+- addicted to making projects (latest: [LeetBoard.dev](https://leetboard.dev/))
 - attend a lot of hackathons (Hack The North, nwHacks, HackEd, natHacks..)
 - mentoring juniors (and seniors!)
 - cat hater turned lover
