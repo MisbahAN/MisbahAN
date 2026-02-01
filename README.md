@@ -20,6 +20,11 @@
   <img src="public/sleepy-kitty.png" alt="sleepy kitty" width="260" />
 </p>
 
+<!-- github stats -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/misbahan" alt="GitHub Contribution Graph" />
+</p>
+
 ---
 
 ## about
@@ -32,20 +37,35 @@
 - cat hater turned lover
 
 ---
+## Projects
 
-## featured projects
-
-- **[LeetBoard](https://github.com/MisbahAN/LeetBoard) | [leetboard.dev](https://leetboard.dev/)**  
-  A competitive programming leaderboard that helps students benchmark their LeetCode progress against classmates and rival universities.
-
-- **[Finnwise](https://github.com/MisbahAN/finnwise) | [finnwise.tech](https://finnwise.tech/dashboard)**  
-  Duolingo for Financial Wisdom. Built during nwHacks 2026.
-   
-- **[six degrees of scientific discovery](https://github.com/MisbahAN/Six-Degrees-of-Scientific-Discovery)**  
-  Concurrent go backend computing shortest knowledge paths across 50k+ scientific discoveries with websocket bfs streaming and cloud run deployments.
-
-- **[ergonomiq](https://github.com/MisbahAN/ergonomiq)**  
-  AI-powered ergonomic wellness system combining computer vision and EMG sensors for real-time posture, eye strain, and wrist monitoring. Built during nathacks 2025.
+- 💰 **[finnwise](https://github.com/MisbahAN/finnwise)** - duolingo-style financial literacy learning app  
+- 🧍‍♂️ **[ergonomiq](https://github.com/MisbahAN/ergonomiq)** - real-time AI ergonomic posture coaching system  
+- 🎟️ **[Event-Lottery-System-Application](https://github.com/MisbahAN/Event-Lottery-System-Application)** - Android event lottery app built with agile workflow   
+- 🧠 **[gpt-from-scratch-pytorch](https://github.com/MisbahAN/gpt-from-scratch-pytorch)** - minimal GPT implementation built step by step  
+- 🏃 **[PostureGuard-AI](https://github.com/MisbahAN/PostureGuard-AI)** - hackathon posture detection and correction system  
+- 📈 **[Reddit-Stock-Sentiment-Analyzer](https://github.com/MisbahAN/Reddit-Stock-Sentiment-Analyzer)** - NLP-based Reddit sentiment vs market analysis  
+- 🔗 **[cointegration-pairs-trading](https://github.com/MisbahAN/cointegration-pairs-trading)** - statistical arbitrage trading with cointegration 
+- 📉 **[Stock-Market-ML-Predictor](https://github.com/MisbahAN/Stock-Market-ML-Predictor)** - random forest S&P 500 movement predictor
+- 🤖 **[NVDA-LSTM-predictor](https://github.com/MisbahAN/NVDA-LSTM-predictor)** - LSTM-based NVIDIA stock price prediction
+- 🧬 **[Brain-Tumor-Classification](https://github.com/MisbahAN/Brain-Tumor-Classification)** - MRI brain tumor classification using deep learning
+- 🔍 **[Saliency-Map-CatsVsDogs](https://github.com/MisbahAN/Saliency-Map-CatsVsDogs)** - explainable CNN image classification demo
+- 📊 **[Visualize-YouTube-Data](https://github.com/MisbahAN/Visualize-YouTube-Data)** - data visualizations of top YouTube channels  
+- 📚 **[Amazon-Best-Selling-Books-Analysis](https://github.com/MisbahAN/Amazon-Best-Selling-Books-Analysis)** - Amazon bestseller trends analysis    
+- 🧠 **[Intel-Student-Ambassador](https://github.com/MisbahAN/Intel-Student-Ambassador)** - completed Intel AI coursework and labs  
+- 🏥 **[MediLink-AI](https://github.com/MisbahAN/MediLink-AI)** - automated medical form understanding and data extraction  
+- 🎧 **[CustomerCare-VoiceAI-Backend](https://github.com/MisbahAN/CustomerCare-VoiceAI-Backend)** - voice AI backend with LiveKit integration  
+- 🎙️ **[CustomerCare-VoiceAI-Frontend](https://github.com/MisbahAN/CustomerCare-VoiceAI-Frontend)** - real-time voice AI web client  
+- 🎬 **[ChatVid-AI](https://github.com/MisbahAN/ChatVid-AI)** - chat with videos using timestamps and context   
+- 🏠 **[PropComp-AI](https://github.com/MisbahAN/PropComp-AI)** - explainable AI real estate comparables engine  
+- 😄 **[tuesday.com](https://github.com/MisbahAN/tuesday.com)** - parody project management tool from hackathon 
+- 📝 **[Summarizely](https://github.com/MisbahAN/Summarizely)** - AI-generated summaries pushed to Google Docs
+- 🎵 **[Spotify-Album-Finder](https://github.com/MisbahAN/Spotify-Album-Finder)** - Spotify artist and album search web app  
+- 🌐 **[html-portfolio](https://github.com/MisbahAN/html-portfolio)** - early personal website built while learning full stack  
+- 🎮 **[PlayMG](https://github.com/MisbahAN/PlayMG)** - hackathon-built experimental game prototype  
+- 🕹️ **[ShadowStrike](https://github.com/MisbahAN/ShadowStrike)** - 2D action platformer with fast movement
+- 🧮 **[Calculator](https://github.com/MisbahAN/Calculator)** - desktop calculator using Python and Tkinter  
+- 🗒️ **[Notepad](https://github.com/MisbahAN/Notepad)** - simple desktop text editor with file operations  
 
 ---
 ## tech i use
