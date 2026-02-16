@@ -36,6 +36,8 @@
 
 ## Projects
 
+- 🏆 **[leetboard](https://github.com/MisbahAN/LeetBoard)** - leetcode leaderboard for university students
+- 😬 **[67-Royale](https://github.com/MisbahAN/67-Royale)** - may the best six-sevenner win
 - 💰 **[finnwise](https://github.com/MisbahAN/finnwise)** - duolingo-style financial literacy learning app  
 - 🧍‍♂️ **[ergonomiq](https://github.com/MisbahAN/ergonomiq)** - real-time AI ergonomic posture coaching system  
 - 🎟️ **[Event-Lottery-System-Application](https://github.com/MisbahAN/Event-Lottery-System-Application)** - Android event lottery app built with agile workflow   
