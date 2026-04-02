@@ -67,7 +67,7 @@
 - 🗒️ **[Notepad](https://github.com/MisbahAN/Notepad)** - simple desktop text editor with file operations  
 
 <p align="center">
-  <i>see all tech stack I've touched at <a href="https://www.misbahan.com/skills">misbahan.com/skills</a></i>
+  <i>see all tech stack I've touched @ <a href="https://www.misbahan.com/skills">misbahan.com/skills</a></i>
 </p>
 
 <p align="center"><i>"If I could, I would, but I can't, so I shan't."</i></p>
