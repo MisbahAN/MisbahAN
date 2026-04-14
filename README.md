@@ -15,9 +15,11 @@
   </a>
 </p>
 
-<!-- image -->
+<!-- two cats on the same row -->
 <p align="center">
-  <img src="public/sleepy-kitty.png" alt="sleepy kitty" width="260" />
+  <img src="public/sleepy-kitty.png" alt="sleepy kitty" height="232" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="pixel kitty" width="310" height="310" />
 </p>
 
 <!-- github stats -->
