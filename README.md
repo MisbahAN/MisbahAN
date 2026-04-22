@@ -38,6 +38,8 @@
 
 ## Projects
 
+- 📱 **juno** (under construction)
+- 🗺️ **archmap** (under construction)
 - 🏆 **[leetboard](https://github.com/MisbahAN/LeetBoard)** - leetcode leaderboard for university students
 - 😬 **[67-Royale](https://github.com/MisbahAN/67-Royale)** - may the best six-sevenner win
 - 💰 **[finnwise](https://github.com/MisbahAN/finnwise)** - duolingo-style financial literacy learning app  
