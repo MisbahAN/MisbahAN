@@ -5,7 +5,7 @@
 
 <!-- roles -->
 <p align="center">
-  swe intern @ altaml · prev @ geotrans lab, vsf holdings · swe @ ualberta
+  swe @ ualberta · prev @ altaml, geotrans lab, vsf holdings
 </p>
 
 <!-- profile views -->
