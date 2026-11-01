@@ -18,18 +18,14 @@
 </p>
 
 <!-- github stats + fishy on the same row -->
-<table align="center">
-  <tr>
-    <td align="center" valign="middle" width="65%">
-      <img src="https://ghchart.rshah.org/misbahan" alt="GitHub Contribution Graph" width="100%" />
-    </td>
-    <td align="center" valign="middle" width="35%">
-      <img src="koi/koi.gif" width="256" alt="fishy" />
-      <br />
-      <sub>fishy grows with total contributions, takes its colors from the account's repo languages, and gets glowing fins during a contribution streak. How it swims depends on recent activity: it darts after a busy week and rests after two quiet weeks.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://ghchart.rshah.org/misbahan" alt="GitHub Contribution Graph" width="62%" align="middle" />
+  &nbsp;&nbsp;
+  <img src="koi/koi.gif" width="256" alt="fishy" align="middle" />
+</p>
+<p align="center">
+  <sub>fishy grows with total contributions, takes its colors from the account's repo languages, and gets glowing fins during a contribution streak. How it swims depends on recent activity: it darts after a busy week and rests after two quiet weeks.</sub>
+</p>
 
 ## about
 
